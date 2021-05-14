@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florian-Karl-W)](https://github.com/Florian-Karl-W/github-readme-stats)
 
 <!--
 **Florian-Karl-W/Florian-Karl-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
