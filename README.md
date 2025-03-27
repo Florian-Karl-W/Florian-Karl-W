@@ -1,17 +1,23 @@
-### Hi there 👋
+# My Web Development Projects
+
+Welcome to my GitHub! 👋
+
+I’m a Junior Web Developer passionate about building modern, responsive, and dynamic websites. This repository contains a collection of my web development projects where I apply HTML, CSS, JavaScript, and various frameworks to create functional and engaging websites.
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- React 
+- Node.js 
+- Bootstrap / Tailwind CSS 
 
 
-<!--
-**Florian-Karl-W/Florian-Karl-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I am a Junior Web Developer with a passion for coding and continuous learning. I’m always looking to improve my skills and take on new challenges. Feel free to check out my other projects and stay tuned for more to come!
 
-Here are some ideas to get you started:
+Thanks for visiting my GitHub! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
