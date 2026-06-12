@@ -1,4 +1,4 @@
-Florian Wunsch — Frontend Engineer
+Florian Wunsch — Full-Stack Developer
 
 React developer based in Leipzig, focused on animation-heavy UIs and visual precision. I like frontend work where the interface actually matters, scroll-driven experiences, SVG manipulation, data-driven rendering, frame-perfect transitions.
 
