@@ -7,7 +7,7 @@ Familiar with TypeScript, type aliases, interfaces, generics, typed API calls. D
 
 Projects
 
-🍹 Gsap_cocktails — Scroll-Driven Animated Website
+🍹 Gsap_cocktails — Scroll-Driven Animated Website  [Live ↗](https://mycocktailsite.netlify.app/)
 
 
 React · GSAP · ScrollTrigger · SplitText · Tailwind CSS · Vite
